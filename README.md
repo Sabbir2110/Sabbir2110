@@ -1,5 +1,6 @@
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Hi+I'm+Sabbir;CSE+Student+%7C+Software+Engineering;Problem+Solver+%7C+Coder;Future+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Hi+I'm+Sabbir+Ahmed;CSE+Student+%7C+Software+Engineering;Problem+Solver+%7C+Coder;Future+Software+Engineer)
+
 
 👋 About Me
     🎓 CSE (Software Engineering) Student  
