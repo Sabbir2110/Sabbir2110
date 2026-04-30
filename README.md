@@ -14,6 +14,7 @@
 🛠️ **Skills**
 
  💻 ***Programming***
+
 🟢 C  
 🔵 C++  
 🟡 JavaScript  
@@ -21,6 +22,7 @@
 
 
  🌐 ***Web Development***
+
 🟠 HTML  
 🔵 CSS  
 🟣 React (Learning)
@@ -28,6 +30,7 @@
 
 
  ⚙️ ***Tools***
+
 🟢 Git & GitHub  
 🟣 VS Code  
 🟠 Linux (Basic)
@@ -35,6 +38,7 @@
 
 
  📂 ***Projects***
+
 🔥 Banker's Algorithm (OS Project)  
 ⚡ DFT Signal Processing (Python)  
 🚧 Portfolio Website (Coming Soon)
@@ -50,6 +54,7 @@
 
 
  🔗 ***Connect With Me***
+
 📧 **Email**: ***sabbirahmedstr45@gmail.com***  
 💼 **LinkedIn**: ***https://www.linkedin.com/in/sabbir-ahmed-75171627a/***  
 🐙 **GitHub**: ***https://github.com/Sabbir2110***
@@ -57,4 +62,5 @@
 
 
 ⚡ ***Fun Fact***
+
 **💡 I love turning ideas into real-world software 🚀**
