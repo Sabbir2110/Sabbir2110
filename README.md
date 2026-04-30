@@ -1,62 +1,58 @@
-# 👋 Hi, I'm Sabbir
+👋 Hi, I'm Sabbir
 
-🎓 B.Sc. in Software Engineering Student  
+🎓 B.Sc. in Computer Science And Engineering Student  
 💻 Passionate about Programming & Problem Solving  
 🚀 Exploring Web Development and System Design  
 
----
 
-## 🧠 About Me
-- 🔭 Currently working on academic & personal projects  
-- 🌱 Learning: React, Next.js & Advanced Algorithms  
-- ⚡ Interested in: Software Engineering, OS, Mobile Apps  
-- 🎯 Goal: Become a professional Software Engineer  
 
----
+🧠 About Me
+    - 🔭 Currently working on academic & personal projects  
+    - 🌱 Learning: React, Next.js & Advanced Algorithms  
+    - ⚡ Interested in: Software Engineering, OS, Mobile Apps  
+    - 🎯 Goal: Become a professional Software Engineer  
 
-## 🛠️ Skills & Tools
 
-### 💻 Programming
-- C, C++, JavaScript  
+🛠️ Skills & Tools
 
-### 🌐 Web Development
-- HTML, CSS  
-- React (Learning)
+💻 Programming
+- C, C++, Java,Python  
 
-### ⚙️ Tools
-- Git & GitHub  
-- VS Code  
-- Linux (Basic)
+🌐 Web Development
+    - HTML, CSS  
+    - React (Learning)
 
----
+⚙️ Tools
+    - Git & GitHub  
+    - VS Code  
+    - Linux (Basic)
 
-## 📂 Projects
 
-### 🔹 Banker's Algorithm (C++)
-> Deadlock avoidance algorithm implementation (OS Lab)
+📂 Projects
 
-### 🔹 DFT Analysis (Python)
-> Signal processing with magnitude & phase visualization
+ 🔹 Banker's Algorithm (C++)
+    > Deadlock avoidance algorithm implementation (OS Lab)
 
-### 🔹 More Projects Coming Soon 🚀
-> Currently building new projects to enhance my portfolio
+  DFT Analysis (Python)
+    > Signal processing with magnitude & phase visualization
 
----
+🔹 More Projects Coming Soon 🚀
+    > Currently building new projects to enhance my portfolio
 
-## 📊 GitHub Stats
+
+
+📊 GitHub Stats
 
 ![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir2110&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2110&layout=compact)
 
----
 
-## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
+📫 Connect With Me
 
----
+📧 Email: sabbirahmedstr45@gmail.com  
+    - 🔗 LinkedIn: https://www.linkedin.com/in/sabbir-ahmed-75171627a  
 
-## ⚡ Fun Fact
+⚡ Fun Fact
 > I enjoy solving complex problems and building real-world applications 🚀
