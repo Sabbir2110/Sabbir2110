@@ -1,66 +1,185 @@
-<!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Hi+I'm+Sabbir+Ahmed;CSE+Student+%7C+Software+Engineering;Problem+Solver+%7C+Coder;Future+Software+Engineer+🚀)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sabbir2110/Sabbir2110/main/banner.png" alt="Banner" width="100%">
+</p>
 
+<h1 align="center">Hi 👋, I'm Sabbir Ahmed</h1>
 
+<h3 align="center">
+💻 Software Engineering Student | Full Stack Developer | AI Enthusiast
+</h3>
 
-👋 About Me
-🎓 **CSE (Software Engineering) Student**  
-💻 Passionate about **Coding & Problem Solving**  
-🚀 Currently learning **Web Development & DSA**  
-🎯 Goal: Become a **Skilled Software Engineer**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+Developer;Java+Developer;C%2B%2B+Programmer;React+%26+Django+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer;Always+Learning+New+Things+🚀">
+</p>
 
+---
 
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🛠️ **Skills**
+# 👨‍💻 About Me
 
- 💻 ***Programming***
+- 🎓 B.Sc. in Software Engineering
+- 💻 Passionate about Coding & Problem Solving
+- 🌱 Currently Learning
+  - Python
+  - Java
+  - React
+  - Django
+  - Machine Learning
+  - Flutter
+- 🚀 Building **BREAP (Bangladesh Real Estate AI Platform)**
+- 🎯 Goal: Become a Professional Software Engineer & AI Engineer
 
-🟢 C  
-🔵 C++  
-🟡 JavaScript  
+---
 
+# 🌐 Connect With Me
 
+<p align="center">
 
- 🌐 ***Web Development***
+<a href="mailto:sabbirahmedstr45@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-🟠 HTML  
-🔵 CSS  
-🟣 React (Learning)
+<a href="https://github.com/Sabbir2110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
+<a href="https://www.linkedin.com/in/sabbir-ahmed-75171627a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
+</p>
 
- ⚙️ ***Tools***
+---
 
-🟢 Git & GitHub  
-🟣 VS Code  
-🟠 Linux (Basic)
+# 💻 Languages & Technologies
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,django,nodejs,mysql,postgres,sqlite,git,github,vscode,linux,flutter,figma"/>
 
- 📂 ***Projects***
+</p>
 
-🔥 Banker's Algorithm (OS Project)  
-⚡ DFT Signal Processing (Python)  
-🚧 Portfolio Website (Coming Soon)
+---
 
+# 📊 GitHub Stats
 
+<p align="center">
 
-📊 ***GitHub Stats***
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabbir2110&show_icons=true&theme=tokyonight&hide_border=true">
 
-***![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir2110&show_icons=true&theme=radical)***
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2110&layout=compact&theme=tokyonight&hide_border=true">
 
-***![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir2110&layout=compact&theme=radical)***
+</p>
 
+---
 
+# 🔥 GitHub Streak
 
- 🔗 ***Connect With Me***
+<p align="center">
 
-📧 **Email**: ***sabbirahmedstr45@gmail.com***  
-💼 **LinkedIn**: ***https://www.linkedin.com/in/sabbir-ahmed-75171627a/***  
-🐙 **GitHub**: ***https://github.com/Sabbir2110***
+<img src="https://streak-stats.demolab.com?user=Sabbir2110&theme=tokyonight&hide_border=true">
 
+</p>
 
+---
 
-⚡ ***Fun Fact***
+# 📈 Contribution Graph
 
-**💡 I love turning ideas into real-world software 🚀**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabbir2110&theme=tokyo-night&hide_border=true">
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sabbir2110&theme=tokyonight&no-frame=true&row=1&column=7">
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 🛠️ Tech |
+|------------|----------|
+| 🏠 BREAP | Django • React • AI |
+| 🌐 Portfolio Website | HTML • CSS • JavaScript |
+| 🤖 Home Price Predictor | Python • Machine Learning |
+| 📚 Student Management | C++ |
+| 🏦 Banker's Algorithm | C++ |
+| 📊 DFT Signal Processing | Python |
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Python
+✔ Java
+✔ React
+✔ Django
+✔ Flutter
+✔ Machine Learning
+✔ Data Structures & Algorithms
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become Full Stack Developer
+- ✅ Learn Machine Learning
+- ✅ Build BREAP
+- ✅ Deploy Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Improve DSA Skills
+
+---
+
+# 📬 Contact
+
+📧 **Email**
+
+sabbirahmedstr45@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/sabbir-ahmed-75171627a/
+
+🐙 **GitHub**
+
+https://github.com/Sabbir2110
+
+🌐 **Portfolio**
+
+Coming Soon...
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sabbir2110&label=Profile%20Views&color=blueviolet&style=for-the-badge">
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> 💡 I love turning ideas into real-world software and learning new technologies every day.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
+
+</p>
