@@ -3,7 +3,7 @@
 ======================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sabbir2110/Sabbir2110/main/banner.png" width="100%" alt="Sabbir Ahmed Banner"/>
+  <img src="https://raw.githubusercontent.com/Sabbir2110/Sabbir2110/main/banner.png" width="100%" alt="Sabbir Ahmed Banner">
 </p>
 
 <!-- =======================
